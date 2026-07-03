@@ -1,0 +1,1 @@
+print("Hi, my name is Jamil. I am currently located in Dhaka, Bangladesh. I am learning python because I want to dive deep in agentic engineering.")
